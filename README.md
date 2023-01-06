@@ -8,7 +8,7 @@ Basic use for FiveBOT Mecanum 4WD Robotic Platform
 |Direction|4|7|8|11|
 
 ---
-###Example for running a motor
+### Example for running a motor
 ```arduino
 //motor control pins
 #define M1 4 
@@ -28,5 +28,5 @@ so for just move on the correct command is
 |Direction|HIGH|LOW|HIGH|LOW|
 
 ---
-###Help for move
+### Help for move
 ![](img/mecanium_functioning.jpg)
